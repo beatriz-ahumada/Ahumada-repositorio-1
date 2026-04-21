@@ -10,4 +10,5 @@ A Claude solo le solicité ayuda porque no entendía cómo hacer los parámetros
 Claude me guió y entendí que debía seguir los mismos pasos que en el problema 3, sólo que las dos variables (música y baile) no son números sino respuestas de sí y no. 
 
 ![Instrucción](Claude.png)
+
 En base a ello, fui escribiendo el código, siguiendo la estructura similar del problema 3. Finalmente resultó el código y también fue muy gratificante ver sus respuestas.
