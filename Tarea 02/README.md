@@ -7,7 +7,7 @@ Para el tercer problema me guié por las indicaciones que las profesoras dieron 
 
 Para el cuarto problema tuve que pedir ayuda a la inteligencia artificial Claude, mencionada por ustedes en clases. Le expliqué lo que estabamos haciendo en general y le mandé el ejemplo de las temperaturas del problema 1 para que entendiera la lógica. 
 A Claude solo le solicité ayuda porque no entendía cómo hacer los parámetros, sin embargo, no le pedí el código en sí.
-Claude me guió y me dijo que debía seguir los mismos pasos que en el problema 3, sólo que las dos variables (música y baile) no son números sino respuestas de sí y no. 
+Claude me guió y entendí que debía seguir los mismos pasos que en el problema 3, sólo que las dos variables (música y baile) no son números sino respuestas de sí y no. 
 
 ![Instrucción](Claude.png)
 En base a ello, fui escribiendo el código, siguiendo la estructura similar del problema 3. Finalmente resultó el código y también fue muy gratificante ver sus respuestas.
